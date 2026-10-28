@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "download_url": "https://github.com/bogarevniuita-arch/afh-updater-test/releases/latest/download/AFH-Updater-Test.lua",
+  "sha256": "70111f029885bc102fa6ee5668f4152fdff40fd243f26841c9da53ce0af0871e",
+  "changelog": "Первый тестовый выпуск. Проверка публикации и загрузки файла через GitHub Releases."
+}
